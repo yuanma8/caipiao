@@ -1,2 +1,3 @@
 # caipiao
-鏃舵椂褰╁寳浜禌杞︾瓑褰╃エ婧愮爜
+时时彩北京赛车等彩票源码
+(http://bgashare.bingoogolapple.cn/banner/BGABannerDemo.png)
