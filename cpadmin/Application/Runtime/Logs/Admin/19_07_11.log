@@ -1,0 +1,520 @@
+[ 2019-07-11T12:33:11+08:00 ] 140.243.206.228 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-07-11T12:33:12+08:00 ] 140.243.206.228 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current D:\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:33:13+08:00 ] 140.243.206.228 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:33:30+08:00 ] 140.243.206.228 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0469s ]
+SQL: SELECT `uid`,`user` FROM `cp_member` WHERE `user` = 'admin' AND `password` = '66d6a1c8748025462128dc75bf5ae8d1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('admin','1562819610','140.243.206.228','登录失败。') [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:33:33+08:00 ] 140.243.206.228 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined variable: current D:\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:33:34+08:00 ] 140.243.206.228 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:33:43+08:00 ] 140.243.206.228 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:33:46+08:00 ] 140.243.206.228 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current D:\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:33:46+08:00 ] 140.243.206.228 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2019-07-11T12:33:49+08:00 ] 140.243.206.228 /index.php/Admin/login/verify.html?1562819630426
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:34:05+08:00 ] 140.243.206.228 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015625s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`user` FROM `cp_member` WHERE `user` = 'admin' AND `password` = 'ee16f8143e0fc1e93007a267ddefd872' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\LoginController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Common\function.php 第 12 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0156s ]
+SQL: SELECT `user` FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('admin','1562819645','140.243.206.228','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-07-11T12:34:06+08:00 ] 140.243.206.228 /index.php/Admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0156s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1557635646 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:34:12+08:00 ] 140.243.206.228 /index.php/Admin/User/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT cp_user.* FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_group` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title` FROM `cp_auth_group`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 404 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:35:33+08:00 ] 140.243.206.228 /index.php/Admin/User/Withdraw.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Withdraw' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_moneydetails` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT cp_moneydetails.* FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 404 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:37:13+08:00 ] 140.243.206.228 /index.php/Admin/User/withdrawdel.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/withdrawdel' [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_moneydetails` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_moneydetails` WHERE `Id` IN (107,108) [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T12:37:15+08:00 ] 140.243.206.228 /index.php/Admin/User/Withdraw.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Withdraw' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_moneydetails` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT cp_moneydetails.* FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 404 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney D:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T13:04:17+08:00 ] 140.243.206.228 /index.php/Admin/User/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Index' [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT cp_user.* FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_group` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title` FROM `cp_auth_group`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 404 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-07-11T13:04:20+08:00 ] 140.243.206.228 /index.php/Admin/User/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT cp_user.* FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_group` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title` FROM `cp_auth_group`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' D:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 404 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

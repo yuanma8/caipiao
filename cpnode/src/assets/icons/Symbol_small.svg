@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6673d"/>
+      <stop offset="1" stop-color="#fb3b59"/>
+    </linearGradient>
+  </defs>
+  <g id="Symbol_41_1" data-name="Symbol 41 – 1" transform="translate(-22 -582.775)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="13" cy="13" r="13" transform="translate(22 582.775)" fill="url(#linear-gradient)"/>
+    <path id="转换" d="M20.593,52.744l.043,2.175s0,.137.265.191A.629.629,0,0,0,21.34,55c.094-.069,4.487-2.9,4.487-2.9a.8.8,0,0,0,.414-.653.68.68,0,0,0-.311-.584l-4.62-2.658a1.141,1.141,0,0,0-.537-.045c-.265.061-.259.256-.259.256l.04,2.01L16.11,50.5s-3.511-.412-3.533-1.711c0,0,.127,4.084,3.685,4.024M15.874,42.44l-.043-2.177s-.05-.156-.336-.189a.465.465,0,0,0-.35.107l-4.491,2.9a.8.8,0,0,0-.414.653.681.681,0,0,0,.311.585l4.624,2.661a.62.62,0,0,0,.449.04c.318-.089.329-.251.329-.251l-.041-2.012,4.466-.075s3.515.412,3.536,1.712c0,0-.127-4.087-3.688-4.027" transform="translate(16.76 548.196)" fill="#fff"/>
+  </g>
+</svg>

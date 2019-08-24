@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <block name="title">
+            <title>{$meta_title}｜{:C('WEB_SITE_TITLE')}－{:C('WEB_SITE_SLOGAN')}</title>
+        </block>
+        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta http-equiv="refresh" content="145" />
+        <link type="text/css" rel="stylesheet" href="Public/css/commen.css">
+        <link type="text/css" rel="stylesheet" href="Public/css/video/animate.css">
+        <meta name="renderer" content="webkit|ie-comp|ie-stand">
+        <meta name="author" content="{:C('WEB_SITE_TITLE')}">
+        <meta name="keywords" content="{$meta_keywords}">
+        <meta name="description" content="{$meta_description}">
+        <meta name="generator" content="凤凰国际">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-title" content="{:C('WEB_SITE_TITLE')}">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <link rel="shortcut icon" type="image/x-icon" href="__ROOT__/favicon.ico">
+        <link rel="apple-touch-icon" type="image/x-icon" href="__ROOT__/logo.png">
+        <link rel="stylesheet" type="text/css" href="__LYUI__/css/lyui.min.css">
+        <link rel="stylesheet" type="text/css" href="__HOME_CSS__/home.css">
+        <link rel="stylesheet" type="text/css" href="__PUBLIC__/libs/animate/animate.min.css">
+        <block name="style"></block>
+        <!--[if lt IE 9]>
+        <script src="//cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
+        <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+
+        <script type="text/javascript">
+            window.jQuery 
+            window.lingyun = {
+                "app_debug"     : "<?php echo C('app_debug'); ?>",
+                "app_debug_msg" : "调试模式已关闭",
+                "top_home_page" : "{:C('TOP_HOME_PAGE')}",
+                "home_page"     : "{:C('HOME_PAGE')}",
+                "var_root "     : "__ROOT__",
+                "default_img"   : "{:get_cover('', 'default')}"
+            }
+        </script>
+    </head>
+    <body class="{$_page_name}">
+        <block name="full_wrap">
+            <block name="hook_page_header">
+                <div class="clearfix hook hook-page-header"> {:hook('PageHeader')} <!-- 文档开始钩子 --> 
+                </div>
+            </block>
+
+            <block name="wrap">
+
+                <div class="clearfix full-wrap">
+                    <div class="clearfix full-header">
+                        <block name="header">
+                             <block name="top-nav">
+                                <nav class="navbar navbar-default navbar-mini top-nav hidden-xs" role="navigation">
+                                    <div class="container">
+                                        <div class="collapse navbar-collapse">
+                                            <ul class="nav navbar-nav" style="margin-left:-15px">
+                                                <li> <a target="_blank" href="#" style="padding-left: 0;"> <span>您好，</span> <span>欢迎来到 {:C('WEB_SITE_TITLE')}，{:C('WEB_SITE_SLOGAN')}！</span> </a> </li>
+                                            </ul>
+                                            <ul class="nav navbar-nav navbar-right">
+                                                <li> <a href="#"
+                                                        data-toggle="popover"
+                                                        title="微信小程序"
+                                                        data-html=true
+                                                        data-placement="bottom"
+                                                        data-trigger="hover"
+                                                    data-content='<div style="width: 120px;"><img width="120" src="<?php echo get_cover(C("QR_IOS"), "qr_weixin_app"); ?>" alt="微信小程序"></div>'> <span class="fa fa-wxapp" style="color: #1aad19;font-weight: 700;"></span> </a> </li>
+                                                <?php if($_user_auth): ?>
+                                                <li> <a href="{:U('User/Message/index', '', true, true)}"> <span class="fa fa-envelope-o"></span> 消息
+                                                    (<span>{$_new_message|default=0}</span>) <!-- 新消息数量 --> 
+                                                </a> </li>
+                                                <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"> <img class="nav-img img-circle" src="{$_user_auth.avatar|get_cover='avatar'}" alt="{$_user_auth.nickname}"> <span>{$_user_auth.nickname}</span> <span class="fa fa-angle-down"></span> </a>
+                                                    <ul class="dropdown-menu">
+                                                        <li> <a href="{:U('User/Index/index', '', true, true)}"> <i class="fa fa-tachometer" style="width: 16px;text-align: center;"></i> 个人中心 </a> </li>
+                                                        <?php if($_user_nav_main): ?>
+                                                        <li role="separator" class="divider"></li>
+                                                        <?php endif; ?>
+                                                        <volist name="_user_nav_main" id="vo_nav">
+                                                            <li> <a href="{:U($vo_nav['url'], '', true, true)}" class="{$vo_nav.class|default=''}"> <i class="{$vo_nav.icon}" style="width: 16px;text-align: center;"></i> {$vo_nav.title} </a> </li>
+                                                        </volist>
+                                                        <li role="separator" class="divider"></li>
+                                                        <li> <a href="{:U('User/User/logout', '', true, true)}" class="ajax-get"> <i class="fa fa-sign-out" style="width: 16px;text-align: center;"></i> 注销登录 </a> </li>
+                                                    </ul>
+                                                </li>
+                                                <?php else: ?>
+                                                <li> <a data-toggle="modal" href="#login-modal"> <i class="fa fa-sign-in"></i> <span>登录/注册</span> </a> </li>
+                                                <?php endif; ?>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </block>
+                            <block name="main-nav">
+                                <nav class="navbar navbar-default main-nav m-a-0" role="navigation">
+                                    <div class="container">
+                                        <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-main"> <span class="sr-only">切换导航</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                                            <a class="navbar-brand" href="{:C('TOP_HOME_PAGE')}">
+                                                <php>if(C('WEB_SITE_LOGO')):</php>
+                                                <img alt="logo" src="<?php echo get_cover(C('WEB_SITE_LOGO_INVERSE')); ?>" style="display: inline-block">
+                                                <php>else:</php>
+                                                <span>{:C('LOGO_DEFAULT')}</span>
+                                                <php>endif;</php>
+                                        </a> </div>
+                                        <div class="collapse navbar-collapse navbar-collapse-main">
+                                            <ul class="nav navbar-nav navbar-left">
+                                                <!-- 主导航 开始 -->
+                                                <lingyun:nav_list name="vo" pid="0" group="main">
+                                                    <php>if(isset($vo['_child'])):</php>
+                                                    <li class="dropdown"> <a href="{$vo.href}" class="dropdown-toggle" data-toggle="dropdown" role="button"> <span>{$vo.title}</span> <span class="caret"></span> </a>
+                                                        <ul class="dropdown-menu">
+                                                            <volist name="vo._child" id="vo1">
+                                                                <li> <a target="{$vo1.target}" href="{$vo1.href}">{$vo1.title}</a> </li>
+                                                            </volist>
+                                                        </ul>
+                                                    </li>
+                                                    <php>else:</php>
+                                                    <li class="<?php
+                                                        if(rtrim(C('HOME_DOMAIN') . $_SERVER['REQUEST_URI'], '/') == rtrim($vo['href'], '/')) {
+                                                        echo 'active';
+                                                        }
+                                                        ?>"> <a target="{$vo.target}" href="{$vo.href}"> <span> {$vo.title}</span> </a> </li>
+                                                    <php>endif;</php>
+                                                </lingyun:nav_list>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </block>
+                            <block name="child-nav">
+                                <?php if(($_nav_list_child || $_module_nav_main || $_module_nav_center || $_module_nav['search']) && !$_module_nav['hide']): ?>
+                                <nav class="navbar navbar-inverse child-nav m-a-0 bg-white b-0" role="navigation">
+                                    <div class="container">
+                                        <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-child"> <span class="sr-only">切换导航</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                                            <a class="navbar-brand" href="{:U('/' . request()->module(), '', true, true)}"> 
+                                                <!-- 模块子logo -->
+                                                <?php if(C(request()->module() . '_config.title')): ?>
+                                                <span style="color: #fff;font-size: 16pxs"> <?php echo C(request()->module() . '_config.title'); ?> </span>
+                                                <?php else: ?>
+                                                <?php if($_current_module): ?>
+                                                <span style="color: #fff;font-size: 16pxs"> <?php echo $_current_module; ?> </span>
+                                                <?php endif; ?>
+                                                <?php endif; ?>
+                                        </a> </div>
+                                        <div class="collapse navbar-collapse navbar-collapse-child">
+                                            <ul class="nav navbar-nav navbar-left m-l">
+                                                <!-- 导航 开始 -->
+                                                <volist name="_nav_list_child" id="vo">
+                                                    <?php if(isset($vo['_child'])): ?>
+                                                    <li class="dropdown"> <a href="{$vo.href}" class="dropdown-toggle" data-toggle="dropdown" role="button"> <span>{$vo.title}</span> <span class="fa fa-angle-down"></span> </a>
+                                                        <ul class="dropdown-menu">
+                                                            <volist name="vo._child" id="vo1">
+                                                                <li> <a target="{$vo1.target}" href="{$vo1.href}">{$vo1.title}</a> </li>
+                                                            </volist>
+                                                        </ul>
+                                                    </li>
+                                                    <?php else: ?>
+                                                    <li class="<?php
+                                                        if(rtrim(C('HOME_DOMAIN') . $_SERVER['REQUEST_URI'], '/') == rtrim($vo['href'], '/')) {
+                                                        echo 'active';
+                                                        }
+                                                        ?>"> <a target="{$vo.target}" href="{$vo.href}"> <span>{$vo.title}</span> </a> </li>
+                                                    <?php endif; ?>
+                                                </volist>
+                                                <!-- 导航 结束 -->
+                                            </ul>
+                                            <?php if(isset($_module_nav['search'])): ?>
+                                            <form class="navbar-form navbar-left" action="{:U($_module_nav['search']['url'])}">
+                                                <div class="form-group">
+                                                    <input type="text" name="keyword" class="form-control search-input" placeholder="{$_module_nav['search']['placeholder']}" value="{:I('get.keyword')}">
+                                                </div>
+                                                <button type="submit" class="btn btn-default search-btn">搜索</button>
+                                            </form>
+                                            <?php endif; ?>
+                                            <ul class="nav navbar-nav navbar-right">
+                                                <volist name="_module_nav_main" id="vo">
+                                                    <li> <a target="{$vo.target}" href="{:U($vo['url'])}"> <span class="{$vo.icon}"></span> <span>{$vo.title}</span> </a> </li>
+                                                </volist>
+                                                <?php if(isset($_module_nav_center)): ?>
+                                                <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"> <span class="fa fa-navicon"></span> </a>
+                                                    <ul class="dropdown-menu">
+                                                        <volist name="_module_nav_center" id="vo1">
+                                                            <li> <a href="{:U($vo1['url'])}">{$vo1.title}</a> </li>
+                                                        </volist>
+                                                    </ul>
+                                                </li>
+                                                <?php endif; ?>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </nav>
+                                <?php else: ?>
+                                <nav class="navbar navbar-inverse child-nav m-a-0 bg-white b-0 hidden" role="navigation">
+                                    <div class="container">
+                                        <div class="collapse navbar-collapse navbar-collapse-child">
+                                            <ul class="nav navbar-nav navbar-left" style="margin-left: -15px;">
+                                                <!-- 主导航 开始 -->
+                                                <lingyun:nav_list name="vo" pid="0" group="main">
+                                                    <php>if(isset($vo['_child'])):</php>
+                                                    <li class="dropdown"> <a href="{$vo.href}" style="<?php if($i == 1) echo 'padding-left: 0;' ?>" class="dropdown-toggle" data-toggle="dropdown" role="button"> <span>{$vo.title}</span> <span class="caret"></span> </a>
+                                                        <ul class="dropdown-menu">
+                                                            <volist name="vo._child" id="vo1">
+                                                                <li> <a target="{$vo1.target}" href="{$vo1.href}">{$vo1.title}</a> </li>
+                                                            </volist>
+                                                        </ul>
+                                                    </li>
+                                                    <php>else:</php>
+                                                    <li class="<?php
+                                                        if(rtrim(C('HOME_DOMAIN') . $_SERVER['REQUEST_URI'], '/') == rtrim($vo['href'], '/')) {
+                                                        echo 'active';
+                                                        }
+                                                        ?>"> <a target="{$vo.target}" href="{$vo.href}" style="<?php if($i == 1) echo 'padding-left: 0;' ?>"> <span> {$vo.title}</span> </a> </li>
+                                                    <php>endif;</php>
+                                                </lingyun:nav_list>
+                                                <!-- 主导航 结束 -->
+                                                <li class="dropdown">
+                                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"> <i class="fa fa-ellipsis-h"></i> </a>
+                                                    <ul class="dropdown-menu">
+                                                        <li>
+                                                            <lingyun:nav_list name="vo" pid="0" group="main_extend">
+                                                                <li> <a target="{$vo.target}" href="{$vo.href}"> <span> {$vo.title}</span> </a> </li>
+                                                            </lingyun:nav_list>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </nav>
+                                <?php endif; ?>
+                            </block>
+                        </block>
+
+                        <div class="clearfix full-container">
+                            <block name="jumbotron"> 
+                                <!--
+                                <div class="jumbotron jumbotron-primary jumbotron-background main-jumbotron text-center m-b-sm">
+                                <h4>简单、高效、卓越 － <span class="small">{:C('WEB_SITE_SLOGAN')}</span></h4>
+                                </div>
+                                --> 
+                            </block>
+                            <block name="breadcrumb"> 
+                                <!-- 子域名部署支持 -->
+                                <?php if(request()->controller() === 'Index' && request()->action() === 'index'): ?>
+                                <!-- 如果是模块首不显示面包屑导航 -->
+                                <div class="container">
+                                    <ol class="breadcrumb main-breadcrumb">
+                                        <li><a href="{:C('TOP_HOME_PAGE')}"><i class="fa fa-home"></i></a></li>
+                                        <?php if($_current_module): ?>
+                                        <li><a href="{:U('/' . request()->module(), '', true, true)}"><?php echo $_current_module; ?></a></li>
+                                        <?php endif; ?>
+                                    </ol>
+                                </div>
+                                <?php else: ?>
+                                <div class="container">
+                                    <ol class="breadcrumb main-breadcrumb">
+                                        <li><a href="{:C('TOP_HOME_PAGE')}"><i class="fa fa-home"></i></a></li>
+                                        <?php if($_current_module): ?>
+                                        <li><a href="{:U('/' . request()->module(), '', true, true)}"><?php echo $_current_module; ?></a></li>
+                                        <?php endif; ?>
+                                        <li class="active">{$meta_title}</li>
+                                    </ol>
+                                </div>
+                                <?php endif; ?>
+                                <div id="main" class="main">
+                                   
+                                            <div class="animate">
+                                                <div class="num">
+                                                    <div class="num-left">北京赛车<span>PK10</span></div>
+                                                    <div class="num-center">
+                                                        <ul>
+                                                            <li>5</li>
+                                                            <li>8</li>
+                                                            <li>6</li>
+                                                            <li>1</li>
+                                                            <li>9</li>
+                                                            <li>2</li>
+                                                            <li>4</li>
+                                                            <li>3</li>
+                                                            <li>10</li>
+                                                            <li>7</li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="num-right">期号：683391</div>
+                                                </div>
+                                                <div class="topbg"></div>
+                                                <div class="animate-box">
+                                                    <div class="line-1"><img src="Public/images/animate/line.png" width="100%"></div>
+                                                    <div class="line-2"><img src="Public/images/animate/line.png" width="100%"></div>
+                                                </div>
+                                                <div class="car1 car" id="car1">
+                                                    <div class="car-div"> <img src="Public/images/animate/car1.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind1"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame1"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car2 car" id="car2">
+                                                    <div class="car-div"> <img src="Public/images/animate/car2.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind2"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame3"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car3 car" id="car3">
+                                                    <div class="car-div"> <img src="Public/images/animate/car3.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind3"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame3"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car4 car" id="car4">
+                                                    <div class="car-div"> <img src="Public/images/animate/car4.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind4"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame4"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car5 car" id="car5">
+                                                    <div class="car-div"> <img src="Public/images/animate/car5.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind5"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame5"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car6 car" id="car6">
+                                                    <div class="car-div"> <img src="Public/images/animate/car6.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind6"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame6"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car7 car" id="car7">
+                                                    <div class="car-div"> <img src="Public/images/animate/car7.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind7"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame7"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car8 car" id="car8">
+                                                    <div class="car-div"> <img src="Public/images/animate/car8.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind8"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame8"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car9 car" id="car9">
+                                                    <div class="car-div"> <img src="Public/images/animate/car9.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind9"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame9"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="car10 car" id="car10">
+                                                    <div class="car-div"> <img src="Public/images/animate/car10.png" width="100%" class="icar">
+                                                        <div class="car-wheel wheel1a"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-wheel2 wheel1b"><img src="Public/images/animate/wheel.gif" width="100%"></div>
+                                                        <div class="car-front wind10"><img src="Public/images/animate/wind.png" width="100%"></div>
+                                                        <div class="car-after flame10"><img src="Public/images/animate/flame.png" width="100%"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="light">
+                                                    <div class="countdownnum">00:00</div>
+                                                    <div class="countdownnum2">00</div>
+                                                    <div class="lightgreen"><img src="Public/images/animate/lightgreen.png" width="100%"></div>
+                                                    <div class="lightyellow"><img src="Public/images/animate/lightyellow.png" width="100%"></div>
+                                                    <div class="lightred"><img src="Public/images/animate/lightred.png" width="100%"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="rz-bg">
+                                            <div class="place1 plcae"> <img src="Public/images/rezult/result1.png" width="60%">
+                                                <div class="place-name-1"></div>
+                                            </div>
+                                            <div class="place2 plcae"> <img src="Public/images/rezult/result2.png" width="60%">
+                                                <div class="place-name-1"></div>
+                                            </div>
+                                            <div class="place3 plcae"> <img src="Public/images/rezult/result3.png" width="60%">
+                                                <div class="place-name-1"></div>
+                                            </div>
+                                        </div>
+                                        <div class="rezult">
+                                            <div class="rezult-left">
+                                                <p><em>等待开奖：</em><span>683542</span></p>
+                                            </div>
+                                            <div class="rezult-center">
+                                                <p><em>冠亚军和：</em><i>13</i><i>单</i><i>大</i></p>
+                                            </div>
+                                            <div class="rezult-right">
+                                                <p><em>1-5龙虎：</em><i>虎</i><i>龙</i><i>龙</i><i>虎</i><i>龙</i></p>
+                                            </div>
+                                        </div>
+                                        <script src="__PUBLIC__/js/jquery-1.10.1.min.js"></script>
+                                        <script src="Public/js/animate/index.js"></script> 
+                                        <script type="text/javascript">
+                                            function stop(){
+                                                $("#main").css('display','none'); 
+                                                $("#main").css('display','block'); 
+                                            }
+                                            var CarDiv=[4,3,6,10,7,5,1,2,9,8];
+                                            start();
+
+
+                                            setInterval('stop()',5000);
+                                        </script> 
+                                      
+                                </div>
+                            </block>
+
+                        </div>
+
+                    </div>
+
+                    <div class="clearfix full-foooter">
+                        <block name="footer">
+                            <block name="footer-nav">
+                                <div class="footer">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xs-12 col-sm-6  col-lg-7 footnav-list">
+                                                <div class="row"> 
+                                                    <!-- 底部导航 开始 -->
+                                                    <lingyun:nav_list name="vo" pid="0" group="bottom">
+                                                        <div class="col-xs-12 col-sm-3">
+                                                            <h4>{$vo.title}</h4>
+                                                            <ul class="list-unstyled">
+                                                                <volist name="vo._child" id="vo1">
+                                                                    <li> <a target="{$vo1.target}" class="text-muted" href="{$vo1.href}">{$vo1.title}</a> </li>
+                                                                </volist>
+                                                            </ul>
+                                                        </div>
+                                                    </lingyun:nav_list>
+                                                    <!-- 底部导航 结束 --> 
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-12 col-sm-6 col-lg-5 qrcode-list hidden-xs">
+                                                <div class="col-xs-6 text-center"> <img src="<?php echo get_cover(C('QR_IOS'), 'qr_ios'); ?>" width="100">
+                                                    <p>iOS版本</p>
+                                                </div>
+                                                <div class="col-xs-6 text-center"> <img src="<?php echo get_cover(C('QR_ANDROID'), 'qr_android');?>" width="100">
+                                                    <p>Android版本</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </block>
+                            <div class="footer-bottom">
+                                <div class="container">
+                                    <ul class="list-inline pull-left">
+                                        <li><a class="icp" href="http://www.miibeian.gov.cn/" target="_blank">{:C('WEB_SITE_ICP')}</a></li>
+                                        <li><span class="copyright">{:C('WEB_SITE_COPYRIGHT')}</span></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </block>
+                    </div>
+
+                </div>
+
+            </block>
+
+            <block name="hook_page_footer">
+                <div class="clearfix hook hook-page-footer"> {:hook('PageFooter')} <!-- 文档末尾钩子 --> 
+                </div>
+            </block>
+        </block>
+
+        <block name="full_script">
+            <div class="clearfix full-script">
+            <div class="container-fluid"> <include file="$_home_public_modal" /> <!-- 弹窗 --> 
+            <script type="text/javascript" src="__LYUI__/js/lyui.min.js"></script> 
+            <script type="text/javascript" src="__HOME_JS__/home.js"></script> 
+            <script type="text/javascript">
+                $(function() {
+                    // 主导航如果没有当前URL完全一致的页面则高亮当前页面所在的模块
+                    var $nav_list = $(".main-nav .navbar-right");
+                    var $current = $nav_list.find("li.active");
+                    if ($current.length == 0) {
+                        var url = "<?php echo U('/'.request()->module(), '', true, true); ?>";
+                        $('.navbar li a[href="' + url + '"]').closest('li').addClass('active');
+                    }
+                });
+            </script>
+            <block name="script"></block>
+
+        </block>
+    </body>
+</html>

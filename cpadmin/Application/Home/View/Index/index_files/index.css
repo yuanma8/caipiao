@@ -1,0 +1,48 @@
+.I #index{width:100%;position:relative;float:left;}
+.I .indexNav{width:100%;position:relative;height:76px;overflow:hidden;}
+.I #imLogin{width:49%;height:40px;text-align:center;line-height:40px;position:absolute;right:0;top:0;color:#fff;background-color:#2888ea;overflow:hidden;}
+.I #imLogin a{color:#fff;}
+.I .indexNav1{height:40px;position:relative;width:100%;background:#2888ea;}
+.I .indexNav2{height:36px;position:relative;width:100%;background:#0a70c9;}
+.I .indexNav1 a,.indexNav2 a{position:absolute;top:0;text-align:center;color:#fff;}
+.I .indexNav1 a{height:40px;line-height:40px;width:50%;font-size:16px;}
+.I .indexNav1 a:nth-of-type(1){left:0;}
+.I .indexNav1 a:last-of-type{right:0;}
+.I .indexNav1 span{border-left:1px #1078d2 solid;position:absolute;left:50%;top:10px;height:20px;}
+.I .indexNav1 a:nth-of-type(3){right:0;}
+.I .indexNav2 a{height:36px;line-height:36px;width:25%;color:#8ec6ff;}
+.I .indexNav2 a:nth-of-type(1){left:0;border-right:1px #0868bb solid;}
+.I .indexNav2 a:nth-of-type(2){left:25%;border-right:1px #0868bb solid;}
+.I .indexNav2 a:nth-of-type(3){left:50%;border-right:1px #0868bb solid;}
+.I .indexNav2 a:nth-of-type(4){right:0;}
+.I .indexNav a i{width:7px;height:7px;border-radius:4px;background:#f2d800;position:absolute;left:50%;bottom:20px;margin-left:30px;}
+.I .banner{overflow:hidden;text-align:center;line-height:0;position:relative;}
+.I .banner nav{width:100%;position:absolute;left:0;bottom:0;text-align:center;height:12px;}
+.I .banner nav a{width:6px;height:6px;border-radius:3px;background:rgba(0,0,0,0.5);display:inline-block;margin:0 2px;}
+.I .banner nav a.cur{background:rgba(255,255,255,.75);}
+.I #bannerWarp li{float:left;}
+.I #bannerWarp li img{width:100%;max-height:200px;}
+.I #closeBanner{position:absolute;right:5px;top:50%;margin-top:-15px;width:30px;height:30px;
+background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAb1BMVEX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+pUA8cAAAAJXRSTlMAAQIDBQoLDA4PHCEiKywtPD1ES0xNVFVWWVpbaWpxcnZ3fH2AuxGnOQAAAVJJREFUeF7t1sFygjAQgOEFTEGwCEghKkgw+/7P2M6U2Ew3JOt48MJ/c8YPMko2wDva2orySg7z/T4Pssqjp2jW3NDq1mRsKk4a/6VPgmc/FTpSJYPGLa7UxiG7u+Bql53fxmf0dPbfu0Vvrc+WGOi4boUK4fkjuGh1SKVNZHpQoYXv9QIKgLj/s30MUCxY71dwg0sCfnRnWxC41LhtNFlfN9p8kAZPkRPn+Kgz2rqQKXfiGqmmFisnlkg1tSideESqqcXRiRVSTS0qJ9ZINbWoWbj/xT3B7GVTrfg/GNUj+6/qqJb8h4Tqiv94Up0HNoY01miyMdhbsuNsScgew8BYo61hkMFKpwWoIu3Rqk8LzxhiD0AlXhm9Lwz9L/CV+I+bBLztrvyDjpasH7EJhCvdh/sRWImWvla0ArhlzWTTqcmefJWq5TBrPQ+yziN4S1tb3/Yblmvv3aqwAAAAAElFTkSuQmCC) right center no-repeat;background-size:contain;}
+.I .playType{min-width:320px;height:80px;display:block;border-bottom:1px #ddd solid;}
+.I .playType .img2{width:80px;height:80px;border-right:1px #ddd solid;float:left;}
+.I .playType .img2 img,.mylog img{width:48px;height:48px;border-radius:34px;margin:5px 0 0 15px;float:left;border:1px #ddd solid;padding:1px;box-shadow:1px 2px 2px 0 #f0f0f0;background-size:contain;}
+.I .playType .img2 span{width:80px;height:20px;line-height:20px;float:left;text-align:center;color:#888;}
+.I .playType .playTypeArea{float:left;height:80px;padding-left:10px;width:228px;}
+.I .playType .playTypeArea p{height:28px;color:#2c2c2c;}
+.I .playType .playTypeArea p.p11{padding-top:15px;}
+.I .playType .playTypeArea p i,.hotIcon{font-style:normal;color:#fff;padding:0 8px;margin-left:5px;margin-top:-2px;height:16px;line-height:16px;border-radius:9px;display:inline-block;background:#ff5340;font-size:12px;}
+.I .playType .playTypeArea p span{color:#888;float:left;}
+.I .playType .playTypeArea p em{padding:0 2px;color:#C30;font-style:normal;float:left;}
+.I .playType .playTypeArea p b{padding:0 2px;font-weight:normal;color:#11BDE8;float:left;}
+.I .playType .drawList{float:left;height:80px;padding-left:10px;width:220px;}
+.I .playType .drawList p{height:30px;padding-top:10px;}
+.I .playType .drawList span{color:#999;margin-right:10px;}
+.I .playType .drawList div{width:220px;padding-bottom:10px;}
+.I .playType .drawList div em,
+.I #STC div.drawList div em{font-style:normal;padding-right:5px;}
+.I .indexBottom{height:92px;}
+.I .indexMoreBtn{height:40px;padding:12px 12px 0 12px;background:#F2F3F5;}
+.I .indexMoreBtn a{background:#2888ea;display:block;border-radius:5px;color:#fff;text-align:center;font-size:15px;line-height:40px;}
+.I .FaqTel{width:100%;height:40px;line-height:36px;text-align:center;background:#F2F3F5;}
+

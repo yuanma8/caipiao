@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#33bffc"/>
+      <stop offset="1" stop-color="#35a5fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Symbol_8_1" data-name="Symbol 8 – 1" transform="translate(-235 -202)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="20" cy="20" r="20" transform="translate(235 202)"/>
+    <g id="银行卡支付" transform="translate(241.669 83.072)">
+      <path id="Path_777" data-name="Path 777" class="cls-2" d="M2.256,129.928H19.5a1.978,1.978,0,0,1,1.925,2.016v.526H6.161a3.551,3.551,0,0,0-2.57,1.124A3.915,3.915,0,0,0,2.514,136.3v8.934H2.256a1.978,1.978,0,0,1-1.925-2.016V131.944A1.978,1.978,0,0,1,2.256,129.928Z" transform="translate(0 0)"/>
+      <path id="Path_778" data-name="Path 778" class="cls-2" d="M162.181,299.249h17.246a1.978,1.978,0,0,1,1.925,2.016V302h-21.1v-.733A1.977,1.977,0,0,1,162.181,299.249Zm19.171,4.568v8.722a1.978,1.978,0,0,1-1.925,2.016H162.181a1.978,1.978,0,0,1-1.925-2.016v-8.722Z" transform="translate(-156.02 -164.964)"/>
+    </g>
+  </g>
+</svg>

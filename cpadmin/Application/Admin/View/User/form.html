@@ -1,0 +1,255 @@
+
+<include file="Public/head"/><body class="no-skin">
+    <include file="Public/header"/>
+    <div class="main-container" id="main-container">
+        <script type="text/javascript">
+            try {
+                ace.settings.check('main-container', 'fixed')
+            } catch (e) {
+            }
+        </script>
+
+        <include file="Public/sidebar"/>
+        <div class="main-content">
+            <div class="main-content-inner">
+                <!-- #section:basics/content.breadcrumbs -->
+                <include file="Public/breadcrumbs"/>
+
+                <!-- /section:basics/content.breadcrumbs -->
+                <div class="page-content">
+                    <include file="Public/set"/>
+
+                    <!-- /section:settings.box -->
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <!-- PAGE CONTENT BEGINS -->
+                            <form class="form-horizontal" action="{:U('update')}" method="post">
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-1"> 用户名 </label>
+                                    <div class="col-sm-9">
+                                        <input type="text"
+                                        <if condition="$user['uid'] eq 1">readonly
+                                            <else/>
+                                            name="username"
+                                        </if>
+                                        class="rcol-xs-10 col-sm-5" value="{$user.username}">
+                                        <input type="hidden" name="uid" value="{$user['uid']}">
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <if condition="$user['uid'] eq 1"><span class="middle">无法修改</span></if>
+                                        </span>
+                                    </div>
+                                </div>
+
+                                <div class="space-4"></div>
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-2"> 外挂等级 </label>
+                                    <div class="col-sm-9">
+
+                                        <select name="dan" class="form-control">
+                                            <option <if condition="$user['botactive'] eq 0">selected</if> value="0">100档（试用）</option>
+                                            <option <if condition="$user['botactive'] eq 1">selected</if> value="1">500档</option>
+                                            <option <if condition="$user['botactive'] eq 2">selected</if> value="2">1000档</option>
+                                            <option <if condition="$user['botactive'] eq 3">selected</if> value="3">2000档</option>
+                                            <option <if condition="$user['botactive'] eq 4">selected</if> value="4">5000档</option>
+                                            <option <if condition="$user['botactive'] eq 5">selected</if> value="5">10000档</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="space-4"></div>
+                                <div class="space-13"></div>
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-2">外挂可用 </label>
+                                    <div class="col-sm-9">
+
+                                        <select name="botonline" class="form-control">
+                                            <option value="1" <if condition="$user['botonline'] eq 1">selected="selected"</if> >可用</option>
+                                            <option value="0" <if condition="$user['botonline'] eq 0">selected="selected"</if> >强制下线</option>
+                                           
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="space-5"></div>
+                                <div class="space-4"></div>
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-4"> 外挂密码 </label>
+                                    <div class="col-sm-9">
+                                        <input type="password" name="botpwd" id="botpwd" placeholder="外挂密码"
+                                            class="col-xs-10 col-sm-5" value="" >
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle">留空不修改</span>
+                                        </span>
+                                    </div>
+                                </div> 
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-6"> 性别 </label>
+                                    <div class="col-sm-9">
+                                        <select id="sex" name="sex" class="multiselect">
+                                            <option value="0"
+                                            <if condition="$user['sex'] eq 0">selected="selected"</if>
+                                            >保密</option>
+                                            <option value="1"
+                                            <if condition="$user['sex'] eq 1">selected="selected"</if>
+                                            >男</option>
+                                            <option value="2"
+                                            <if condition="$user['sex'] eq 2">selected="selected"</if>
+                                            >女</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="space-4"></div>
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-3"> 用户密码 </label>
+                                    <div class="col-sm-9">
+                                        <input type="password" name="password" id="password" placeholder="用户密码"
+                                            class="col-xs-10 col-sm-5" value="">
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle">留空不修改</span>
+                                        </span>                                                                           
+                                    </div>
+                                </div>
+
+                                <div class="space-4"></div>
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-5"> 头像 </label>
+                                    <div class="col-sm-9">
+                                        <div class="col-xs-10 col-sm-5">{:UpImage("headPhoto",100,100,$user['headPhoto'])}</div>
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle">仅支持jpg、gif、png、bmp、jpeg，且小于1MB。</span>
+                                        </span>
+                                    </div>
+
+                                </div>
+
+
+                                <div class="space-5"></div>
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="id-date-picker-1">生日</label>
+                                    <div class="col-xs-9 col-sm-9">
+                                        <div class="input-group col-xs-5">
+
+                                            <input class="form-control" id="birthday" name="birthday" value="<if condition="
+                                            $member['birthday'] neq '' ">{$user['birthday']|date="Y-m-d",###}</if>"
+                                            type="text" data-date-format="dd-mm-yyyy" />
+                                            <span class="input-group-addon">
+                                                <i class="ace-icon fa fa-calendar bigger-110"></i>
+                                            </span>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="space-4"></div>
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-7"> 联系电话 </label>
+                                    <div class="col-sm-9">
+                                        <input type="text" name="phone" id="phone" placeholder="联系电话"
+                                            class="col-xs-10 col-sm-5" value="{$user['phone']}">
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle"></span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="space-4"></div>
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-8"> 账户金额 </label>
+                                    <div class="col-sm-9">
+                                        <input type="text" name="totalmoney" id="totalmoney" placeholder="账户金额"
+                                            class="col-xs-10 col-sm-5" value="{$user['totalmoney']}">
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle"></span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="space-4"></div>
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-11"> 冻结金额 </label>
+                                    <div class="col-sm-9">
+                                        <input type="text" name="freezemoney" id="freezemoney" placeholder="冻结金额"
+                                            class="col-xs-10 col-sm-5" value="{$user['freezemoney']}">
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle"></span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-12"> 所属代理 </label>
+                                    <div class="col-sm-9">
+                                        <input type="text" name="agent" id="agent" placeholder=" 所属代理 "
+                                            class="col-xs-10 col-sm-5" value="{$user['agent']}">
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle"></span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="space-4"></div>
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-13"> 日化收益率</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" name="percentage" id="percentage" placeholder="收益率" class="col-xs-10 col-sm-5"
+                                            value="{$user['percentage']}">   %
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle"></span>
+                                        </span>
+                                    </div>
+                                </div>
+
+
+                                <div class="form-group">
+                                    <label class="col-sm-1 control-label no-padding-right" for="form-field-14">
+                                        E-mail </label>
+                                    <div class="col-sm-9">
+                                        <input type="email" name="email" id="email" placeholder="E-mail"
+                                            class="col-xs-10 col-sm-5" value="{$user['email']}">
+                                        <span class="help-inline col-xs-12 col-sm-7">
+                                            <span class="middle"></span>
+                                        </span>
+                                    </div>
+                                </div>              
+                                <div class="col-md-offset-2 col-md-9">
+                                    <button class="btn btn-info" type="submit">
+                                        <i class="icon-ok bigger-110"></i>
+                                        提交
+                                    </button>
+
+                                    &nbsp; &nbsp; &nbsp;
+                                    <button class="btn" type="reset">
+                                        <i class="icon-undo bigger-110"></i>
+                                        重置
+                                    </button>
+                                </div>
+                            </form>
+                            <!-- PAGE CONTENT ENDS -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!-- /.page-content -->
+            </div>
+        </div><!-- /.main-content -->
+        <include file="Public/footer"/>
+
+    </div><!-- /.main-container -->
+
+    <include file="Public/footerjs"/>
+    <!-- inline scripts related to this page -->
+    <script src="__PUBLIC__/admin/js/date-time/bootstrap-datepicker.js"></script>
+    <script src="__PUBLIC__/admin/js/function.js"></script>
+    <script type="text/javascript">
+        jQuery(function ($) {
+            $('#birthday').datepicker({
+                format: 'yyyy-mm-dd',
+                weekStart: 1,
+                autoclose: true,
+                todayBtn: 'linked',
+                language: 'cn'
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1880 @@
+[ 2019-06-22T16:59:26+08:00 ] ::1 /index.php/admn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Admn
+
+[ 2019-06-22T18:15:28+08:00 ] ::1 /index.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Login
+
+[ 2019-06-22T18:15:44+08:00 ] ::1 /index.php/index/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2019-06-22T18:15:52+08:00 ] ::1 /index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2019-06-22T18:15:57+08:00 ] ::1 /index.php/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2019-06-22T18:16:02+08:00 ] ::1 /index.php/index_files/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/czj-h5-20170621.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10032.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10026.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10025.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/conf.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10024.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/index1.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/zepto.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10059.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10060.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10061.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10046.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10064.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10066.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10057.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/conf.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10058.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10082.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10065.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/10038.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:03+08:00 ] ::1 /index.php/index_files/index1.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:16:04+08:00 ] ::1 /index.php/index_files/pl5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index_files
+
+[ 2019-06-22T18:29:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2019-06-22T19:21:02+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T19:21:02+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T19:21:02+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T19:22:47+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T19:22:47+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T19:22:55+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T19:22:55+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T19:23:24+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T19:23:24+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T19:23:24+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T19:27:36+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T19:27:36+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T19:27:36+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T19:33:02+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T19:33:02+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T19:33:02+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T19:36:43+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T19:36:43+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T19:36:43+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T19:39:35+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T19:39:35+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T19:39:35+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:00:02+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:00:02+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:00:02+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:00:03+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:00:03+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:00:03+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:08:54+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:08:54+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:08:54+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:08:54+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:11:27+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:11:27+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:11:27+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:11:27+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:12:04+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:12:04+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:12:05+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:17:44+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:17:44+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:17:44+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:23:31+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:23:31+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:23:31+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:23:32+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:23:32+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:23:32+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:25:29+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:25:29+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T20:25:29+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:25:29+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T20:25:29+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T20:25:34+08:00 ] 127.0.0.1 /user/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:25:34+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:25:34+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T20:25:36+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T20:25:36+08:00 ] 127.0.0.1 /chessCard/findGameList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:ChessCard
+
+[ 2019-06-22T20:25:36+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T20:25:37+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:25:37+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T20:25:37+08:00 ] 127.0.0.1 /user/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:25:39+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T20:25:39+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T20:25:39+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T20:25:41+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:25:41+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:28:47+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:28:47+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:28:47+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:28:48+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:28:48+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:28:48+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:41:32+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:41:32+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:41:32+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:41:32+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:49:32+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:49:32+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:49:32+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T20:49:32+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:49:32+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+tery
+
+[ 2019-06-22T20:49:37+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:49:37+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:51:11+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:51:11+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T20:51:11+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:51:11+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T20:51:11+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T20:51:13+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:51:13+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:51:13+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T20:51:13+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:51:13+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T20:51:13+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T20:51:24+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:51:24+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T20:53:49+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T20:53:49+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T20:53:49+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:01:01+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:01:02+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:01:02+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:01:34+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:01:35+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:01:35+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:01:46+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:01:46+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:01:46+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:03:18+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:03:18+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:04:28+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:04:28+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:20:53+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:20:53+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:20:53+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:22:42+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:22:42+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:22:42+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:27:24+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:27:24+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:27:24+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:40:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:40:23+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:40:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:40:23+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T21:40:23+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:40:23+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T21:40:23+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:40:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:40:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:40:43+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:40:43+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:41:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:41:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:41:03+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:41:03+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:41:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:41:23+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:41:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:41:23+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:41:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:41:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:41:43+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:41:43+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:42:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:42:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:42:03+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:42:03+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:42:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:42:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:42:23+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:42:23+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:42:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:42:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:42:43+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:42:43+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:43:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:43:03+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:43:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:43:03+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:43:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:43:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:43:23+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:43:23+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:43:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:43:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:43:43+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:43:43+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:44:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:44:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:44:03+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:44:03+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:44:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:44:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:44:23+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:44:23+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:44:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:44:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:44:43+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:44:43+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:45:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:45:03+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:45:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:45:03+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:45:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:45:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:45:23+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:45:23+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:45:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:45:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:45:43+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:45:43+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:46:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:46:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:46:03+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:46:03+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:46:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:46:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:46:23+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:46:23+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:46:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:46:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:46:43+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:46:43+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:47:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:47:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015601s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:47:03+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:47:03+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:47:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:47:23+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:47:23+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:47:23+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:47:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:47:43+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:47:43+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:47:43+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:48:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:48:03+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:48:03+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:48:03+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:48:19+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015601s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:48:19+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:48:19+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:48:19+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:48:19+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T21:48:19+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:48:19+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T21:48:19+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:48:22+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:48:22+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:48:45+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:48:45+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:48:45+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:48:45+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T21:48:45+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:48:45+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:49:05+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:49:05+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:49:05+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:49:05+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:49:25+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:49:25+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:49:25+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:49:25+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:49:34+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:49:34+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:49:42+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:49:42+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:49:42+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:49:42+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:49:42+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:49:42+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T21:49:42+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T21:50:02+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:50:02+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:50:02+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:50:02+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:50:22+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:50:22+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:50:22+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:50:42+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:50:42+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:50:42+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:50:42+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:51:02+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:51:02+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:51:02+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:51:02+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:51:17+08:00 ] 127.0.0.1 /common/getValidImage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Common
+
+[ 2019-06-22T21:51:17+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:51:20+08:00 ] 127.0.0.1 /user/GetCompanyInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:51:20+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:51:20+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:51:20+08:00 ] 127.0.0.1 /adver/find/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Adver
+
+[ 2019-06-22T21:51:20+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+
+[ 2019-06-22T21:51:20+08:00 ] 127.0.0.1 /system/testSpeed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:System
+
+[ 2019-06-22T21:51:20+08:00 ] 127.0.0.1 /notice/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Notice
+
+[ 2019-06-22T21:51:40+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:51:40+08:00 ] 127.0.0.1 /activity/avaCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Activity
+
+[ 2019-06-22T21:51:40+08:00 ] 127.0.0.1 /user/getReturnMoneyFlag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:User
+
+[ 2019-06-22T21:51:40+08:00 ] 127.0.0.1 /lottery/info/all/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lottery
+

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50.001 50.001">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9ae41f"/>
+      <stop offset="1" stop-color="#5ad927"/>
+    </linearGradient>
+  </defs>
+  <g id="Symbol_10_1" data-name="Symbol 10 – 1" transform="translate(-284 -81.653)">
+    <path id="Exclusion_8" data-name="Exclusion 8" class="cls-1" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(284 81.654)"/>
+    <g id="微信" transform="translate(229.709 -52.569)">
+      <path id="Path_768" data-name="Path 768" class="cls-2" d="M84.694,155.136a8.954,8.954,0,0,1,.98.061c-.878-4.089-5.247-7.126-10.238-7.126-5.577,0-10.146,3.8-10.146,8.629,0,2.786,1.519,5.074,4.059,6.851L68.336,166.6l3.547-1.777a17.5,17.5,0,0,0,3.553.507c.319,0,.634-.014.946-.038a7.626,7.626,0,0,1-.314-2.129c0-4.432,3.807-8.03,8.626-8.03Zm-5.454-2.75a1.268,1.268,0,1,1,0,2.535,1.289,1.289,0,1,1,0-2.535Zm-7.1,2.535a1.29,1.29,0,1,1,0-2.535,1.268,1.268,0,0,1,0,2.535Zm0,0"/>
+      <path id="Path_769" data-name="Path 769" class="cls-2" d="M438.389,392.642c0-4.056-4.06-7.362-8.62-7.362-4.829,0-8.629,3.308-8.629,7.362s3.8,7.363,8.629,7.363a12.738,12.738,0,0,0,3.045-.507l2.782,1.526-.763-2.536c2.037-1.531,3.556-3.556,3.556-5.845Zm-11.419-1.27a1.014,1.014,0,1,1,0-2.028,1.04,1.04,0,1,1,0,2.028Zm5.581,0a1.014,1.014,0,0,1,0-2.028,1.04,1.04,0,1,1,0,2.028Zm0,0" transform="translate(-344.431 -229.597)"/>
+    </g>
+  </g>
+</svg>

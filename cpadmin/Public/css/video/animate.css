@@ -1,0 +1,74 @@
+.num{width:100%;height: 23px;background: url(../../images/animate/top_header.jpg)no-repeat center;}
+.num .num-left{float: left;color: #fff;width: 70px;height: 23px;line-height: 23px;padding-left: 5px;font-size: 7px;font-weight: 200;}
+.num .num-left span{color: yellowgreen;}
+.num .num-center{float: left;width: calc(100% - 130px);padding-left: 5px;}
+.num .num-center ul{overflow: hidden;}
+.num .num-center ul li{display: block;float: left;background: #fff;width: 15px;height: 13px;margin: 5px 3px;text-align: center;line-height: 13px;
+    -webkit-text-fill-color:#fff; -webkit-text-stroke-color:#333;-webkit-text-stroke-width:1px;font-size: 8px;border-radius: 2px;
+    text-fill-color:#fff; text-stroke-color:#333;text-stroke-width:1px;font-style: italic;
+}
+.num .num-right{float: right;width: 53px;color: #fff;height: 23px;line-height: 23px;font-size: 7px;}
+.ant{width: 360px;height: 190px;}
+.animate{width: 360px;height: 190px;overflow: hidden;position: absolute;}
+.topbg{width: 40000px;background: url(../../images/animate/topbg.jpg) repeat-x;height: 40px;position: absolute;top: 23px;left: -38920px;z-index: 5;}
+.animate-box{background: url(../../images/animate/road.jpg) repeat-x;height: 127px;width: 40000px;position:absolute;top: 63px;left: -38920px;z-index: 5;}
+.line-1{position: absolute;top: 4px;left: 460px;z-index: 6;height: 115px;overflow: hidden;
+    transform: rotate(7deg);
+    -ms-transform: rotate(7deg);		/* IE 9 */
+    -webkit-transform: rotate(7deg);	/* Safari and Chrome */
+    -o-transform: rotate(7deg);		/* Opera */
+    -moz-transform: rotate(7deg);		
+}
+.line-2{position: absolute;top: 4px;right: 60px;z-index: 6;height: 146px;overflow: hidden;}
+.car{position: absolute;top: 62px;z-index: 6;right: -3px;}
+.car2{top: 73px;right: 0;display: block;}
+.car3{top: 85px;right: 3px;display: block;}
+.car4{top: 96px;right: 6px;display: block;}
+.car5{top: 108px;right: 10px;display: block;}
+.car6{top: 120px;right: 13px;display: block;}
+.car7{top: 132px;right: 17px;display: block;}
+.car8{top: 143px;right: 20px;display: block;}
+.car9{top: 155px;right: 23px;display: block;}
+.car10{top:168px;right: 27px;display: block;}
+.car .icar{width: 50px;position: absolute;left: 0;top: 0;}
+.car .car-div{position: relative;width: 69px;height: 14px;}
+.car .car-div .car-wheel{position: absolute;top: 6px;left:25px;width: 7px;display: none;}
+.car .car-div .car-wheel2{position: absolute;top:6px;right:25px;width: 7px;display: none;}
+.car .car-div .car-front{position: absolute;top: -3px;left:-20px;z-index: 7;width: 50px;display: none;}
+.car .car-div .car-after{position: absolute;width: 20px;z-index:7; top:8px;right: 2px;display: none;}
+
+/* 倒计时灯光 */
+.light{position:absolute;z-index: 8;width: 212px;height:70px;background: url(../../images/animate/trafficlight.png)no-repeat left bottom;top: 75px;left: 61px;}
+.lightred{width: 97px;position: absolute;right: -10px;top: 17px;display: none;}
+.lightyellow{width: 97px;position: absolute;right:55px;top: 17px;display: none;}
+.lightgreen{width: 97px;position: absolute;right:126px;top: 17px;display: none;}
+.countdownnum{color: #fff;position: absolute;top: 0;left: 70px;font-size: 27px;}
+.countdownnum2{color: #fff;position: absolute;top: 20px;left: 120px;font-size: 10px;}
+
+/* 比赛结果背景动画 */
+.rz-bg{width: 360px;height: 190px;background: url(../../images/rezult/resultbg.jpg)no-repeat center;position: relative;left: 0;top:0;z-index: 5;display: none;}
+.place1{position:absolute;width: 75px;left: 180px;top: 50px;}
+.place2{position: absolute;width: 75px;left: 1px;top: 35px;}
+.place3{position:absolute;width: 75px;left: 233px;top: 35px;}
+.PN_1 .place-name-1{background: url(../../images/rezult/winner1.png);width: 140px;height: 61px;zoom: 0.8}
+.PN_2 .place-name-1{background: url(../../images/rezult/winner2.png) no-repeat center;width: 140px;height: 61px;zoom:0.8}
+.PN_3 .place-name-1{background: url(../../images/rezult/winner3.png);width: 140px;height: 61px;zoom:0.9}
+.PN_4 .place-name-1{background: url(../../images/rezult/winner4.png) no-repeat center;width: 140px;height: 61px;zoom:0.8}
+.PN_5 .place-name-1{background: url(../../images/rezult/winner5.png);width: 140px;height: 61px;zoom: 0.8}
+.PN_6 .place-name-1{background: url(../../images/rezult/winner6.png) no-repeat center;width: 140px;height: 61px;zoom: 0.8}
+.PN_7 .place-name-1{background: url(../../images/rezult/winner7.png);width: 140px;height: 61px;zoom: 0.8}
+.PN_8 .place-name-1{background: url(../../images/rezult/winner8.png) no-repeat center;width: 140px;height: 61px;zoom: 0.8}
+.PN_9 .place-name-1{background: url(../../images/rezult/winner9.png);width: 140px;height: 61px;zoom: 0.8}
+.PN_10 .place-name-1{background: url(../../images/rezult/winner10.png) no-repeat center;width: 140px;height: 61px;zoom:0.8}
+
+/*  比赛结果 */
+.rezult{width: 360px;height: 26px;background: #202020;margin-top: -1px;overflow: hidden;}
+.rezult .rezult-left{float: left;height: 21px;margin: 2px 2px 0 0;border: 1px solid #333;width: 90px;overflow: hidden;}
+.rezult .rezult-left em{float: left;height: 21px;line-height: 21px;font-size: 8px;padding:0 0 0 10px;color: #fff;display: block;}
+.rezult .rezult-left span{float: left;height: 21px;line-height: 21px;color: #fff;font-size: 7px;display: block;}
+.rezult .rezult-center{float: left;height: 21px;margin: 2px 3px 0 10px;border: 1px solid #333;width:107px;overflow: hidden;}
+.rezult .rezult-center em{float: left;height: 21px;line-height: 21px;font-size: 8px;padding:0 0 0 3px;color: #fff;display: block;}
+.rezult .rezult-center i{display: block;float: left;width: 13px;height: 13px;background: #08f;text-align: center;line-height: 13px;border-radius: 100%;margin: 4px 4px 0 0;color: #fff;font-size: 7px;}
+.rezult .rezult-right{float: left;height: 21px;margin: 2px 0 0 0;border: 1px solid #333;width: 135px;overflow: hidden;}
+.rezult .rezult-right em{float: left;height: 21px;line-height: 21px;font-size: 8px;padding:0 0 0 3px;color: #fff;display: block;}
+.rezult .rezult-right i{display: block;float: left;width: 13px;height: 13px;background: #08f;text-align: center;line-height: 13px;border-radius: 100%;margin: 4px 4px 0 0;color: #fff;font-size: 7px;}

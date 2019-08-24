@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.2" height="23" viewBox="0 0 20.2 23">
+  <g id="个人2" transform="translate(0.024 0.02)">
+    <g id="Symbol_27_5" data-name="Symbol 27 – 5">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(-0.024 -0.02)">
+        <path id="个人" d="M19.617,22.96a.559.559,0,0,1-.559-.559,8.892,8.892,0,0,0-2.627-6.339.559.559,0,0,1,0-.789.57.57,0,0,1,.8,0A9.98,9.98,0,0,1,20.176,22.4a.559.559,0,0,1-.549.559Zm-9.529-9.523A8.987,8.987,0,0,0,1.1,22.421a.559.559,0,0,1-1.119,0v-.2a.658.658,0,0,1,0-.14,10.076,10.076,0,0,1,10.108-9.763.559.559,0,1,1,0,1.118Zm0,0A6.728,6.728,0,1,1,16.81,6.708h0a6.72,6.72,0,0,1-6.722,6.738Zm0-12.329a5.61,5.61,0,1,0,5.6,5.61h0A5.612,5.612,0,0,0,10.1,1.108Z" transform="translate(0.024 0.02)" fill="#c6cfd6"/>
+        <path id="Path_814" data-name="Path 814" d="M10.088,12.3A10.085,10.085,0,0,0,0,22.382H0v.589H20.136v-.609A10.085,10.085,0,0,0,10.088,12.3Z" transform="translate(0.024 -0.001)" fill="#c6cfd6"/>
+        <path id="Path_815" data-name="Path 815" d="M20.18,22.39V23h-.06V22.56Z" transform="translate(0 -0.019)" fill="#c6cfd6"/>
+        <path id="Path_816" data-name="Path 816" d="M0,23H.07a2.933,2.933,0,0,0,0-.419A1,1,0,0,1,0,22.42Z" transform="translate(0.024 -0.019)" fill="#c6cfd6"/>
+      </g>
+      <g id="Layer_2" data-name="Layer 2" transform="translate(4.225 0.878)">
+        <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="5.923" cy="5.92" rx="5.923" ry="5.92" fill="#c6cfd6"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1099 @@
+[ 2019-06-23T10:04:15+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:04:15+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015599s ]
+
+[ 2019-06-23T10:18:01+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:18:02+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 27 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-06-23T10:21:39+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:21:40+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 27 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('','1561256500','127.0.0.1','登录失败。') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:28:02+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:28:03+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 27 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('','1561256883','127.0.0.1','登录失败。') [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:30:09+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:30:10+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'xdmloveu' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561257010','127.0.0.1','登录失败。') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:33:02+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:33:03+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 33 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 37 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561257183','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T10:40:59+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:41:00+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: GFbggnCDSccxczvdsdhagbnfghvZfsdv C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 25 行.
+NOTIC: [8] Use of undefined constant MD5_SUFFXIE - assumed 'MD5_SUFFXIE' C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = '9613430c776042a1c677954e9ce8e5b2' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561257660','127.0.0.1','登录失败。') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:43:39+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:43:40+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: GFbggnCDSccxczvdsdhagbnfghvZfsdv C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = '49c53884715c06d7c8147da2d58a8d13' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561257820','127.0.0.1','登录失败。') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:47:09+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:47:10+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: GFbggnCDSccxczvdsdhagbnfghvZfsdv C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = '49c53884715c06d7c8147da2d58a8d13' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561258030','127.0.0.1','登录失败。') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:55:41+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T10:55:42+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561258542','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T11:10:35+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:10:36+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:10:44+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2019-06-23T11:10:45+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:11:17+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:11:18+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:11:26+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:11:27+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:11:44+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:11:45+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561259505','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T11:11:48+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:11:49+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:14:07+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:14:08+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561259648','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T11:14:24+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:14:26+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:32:52+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:32:53+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561260773','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T11:32:55+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 21 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:32:56+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 21 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:34:42+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 21 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:34:44+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 21 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:34:50+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:34:51+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561260891','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T11:35:00+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 21 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T11:35:01+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: uid C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 21 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 28 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 55 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:14:17+08:00 ] ::1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:25:28+08:00 ] 0:0:0:0:0:0:0:1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:32:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:38:05+08:00 ] 0:0:0:0:0:0:0:1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:46:02+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:46:03+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561265163','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T12:46:15+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:46:16+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 56 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:46:50+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:46:51+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561265211','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T12:46:53+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:46:54+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 56 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:48:26+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:48:27+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool','1561265307','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T12:48:29+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:48:30+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 56 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:50:16+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:50:17+08:00 ] 127.0.0.1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 56 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:50:25+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:50:26+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561265426','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T13:37:50+08:00 ] ::1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:37:51+08:00 ] ::1 /Home/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 20 行.
+NOTIC: [8] Undefined index: lotteryId C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined variable: username C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: password C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 29 行.
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = null AND `password` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data C:\Users\beimei\caipiao\Application\Home\Controller\BalanceController.class.php 第 56 行.
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:38:00+08:00 ] ::1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\ComController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:38:01+08:00 ] ::1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`username` FROM `cp_user` WHERE `username` = 'cool44' AND `password` = 'bc66eeeeb52f66d5cf811ea3c320a469' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: remember C:\Users\beimei\caipiao\Application\Home\Controller\LoginController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Home\Common\function.php 第 12 行.
+SQL: SELECT `username` FROM `cp_user` WHERE `uid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('cool44','1561268281','::1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T19:49:49+08:00 ] ::1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

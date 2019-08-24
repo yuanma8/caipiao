@@ -1,0 +1,1142 @@
+[ 2019-06-23T12:13:17+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-06-23T12:13:17+08:00 ] 127.0.0.1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:13:17+08:00 ] 127.0.0.1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:13:25+08:00 ] 127.0.0.1 /Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:13:25+08:00 ] 127.0.0.1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:13:35+08:00 ] 127.0.0.1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`user` FROM `cp_member` WHERE `user` = 'admin' AND `password` = '66d6a1c8748025462128dc75bf5ae8d1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\LoginController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Common\function.php 第 12 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0156s ]
+SQL: SELECT `user` FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('admin','1561263215','127.0.0.1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T12:13:36+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556079216 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:13:45+08:00 ] 127.0.0.1 /index.php/Admin/Setting/setting.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Setting/setting' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_setting` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `cp_setting` WHERE ( type=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:13:46+08:00 ] 127.0.0.1 /index.php/Admin/variable/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Variable/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_setting` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_setting` WHERE ( type=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:13:50+08:00 ] 127.0.0.1 /index.php/Admin/Member/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Member/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_member` INNER JOIN cp_auth_group_access ON cp_member.uid = cp_auth_group_access.uid INNER JOIN cp_auth_group ON cp_auth_group.id = cp_auth_group_access.group_id  ORDER BY cp_member.uid asc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT cp_member.*,cp_auth_group.id as gid,cp_auth_group.title FROM `cp_member` INNER JOIN cp_auth_group_access ON cp_member.uid = cp_auth_group_access.uid INNER JOIN cp_auth_group ON cp_auth_group.id = cp_auth_group_access.group_id  ORDER BY cp_member.uid asc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_group` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title` FROM `cp_auth_group`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 404 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:15:29+08:00 ] 127.0.0.1 /index.php/Admin/Personal/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Personal/profile' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `cp_member` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:15:31+08:00 ] 127.0.0.1 /index.php/Admin/Upload/uploadpic/Width/100/Height/100/BackCall/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: img C:\Users\beimei\caipiao\Application\Admin\Controller\UploadController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:25:47+08:00 ] 0:0:0:0:0:0:0:1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-06-23T12:25:49+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:25:51+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:26:02+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/login/login.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`user` FROM `cp_member` WHERE `user` = 'admin' AND `password` = '66d6a1c8748025462128dc75bf5ae8d1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\LoginController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Common\function.php 第 12 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT `user` FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('admin','1561263962','0:0:0:0:0:0:0:1','登录成功。') [ RunTime:0.0000s ]
+
+[ 2019-06-23T12:31:54+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556080314 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:31:55+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/login/login.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:32:01+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:32:09+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556080328 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:32:59+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-06-23T12:32:59+08:00 ] 127.0.0.1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:32:59+08:00 ] 127.0.0.1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:33:38+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556080418 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:33:48+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556080428 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:33:56+08:00 ] 127.0.0.1 /index.php/Admin/logout/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Logout/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+
+[ 2019-06-23T12:33:56+08:00 ] 127.0.0.1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:33:56+08:00 ] 127.0.0.1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:34:04+08:00 ] 127.0.0.1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:34:07+08:00 ] 127.0.0.1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:34:07+08:00 ] 127.0.0.1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:34:16+08:00 ] 127.0.0.1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`user` FROM `cp_member` WHERE `user` = 'admin' AND `password` = '66d6a1c8748025462128dc75bf5ae8d1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\LoginController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Common\function.php 第 12 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT `user` FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('admin','1561264456','127.0.0.1','登录成功。') [ RunTime:0.0156s ]
+
+[ 2019-06-23T12:34:18+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0156s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556080458 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:34:25+08:00 ] 127.0.0.1 /index.php/Admin/Personal/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Personal/profile' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:34:27+08:00 ] 127.0.0.1 /index.php/Admin/Upload/uploadpic/Width/100/Height/100/BackCall/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: img C:\Users\beimei\caipiao\Application\Admin\Controller\UploadController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:34:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556080491 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:34:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0156s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556080492 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:38:29+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T12:39:26+08:00 ] 0:0:0:0:0:0:0:1 /index.php/Admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1556080766 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:07:50+08:00 ] 127.0.0.1 /index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Article/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_category` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`pid`,`name` FROM `cp_category` ORDER BY o asc  [ RunTime:0.0000s ]
+
+[ 2019-06-23T13:07:58+08:00 ] 127.0.0.1 /index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Article/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_category` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`pid`,`name` FROM `cp_category` ORDER BY o asc  [ RunTime:0.0000s ]
+
+[ 2019-06-23T13:07:59+08:00 ] 127.0.0.1 /index.php/Admin/Article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Article/add' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_category` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`pid`,`name` FROM `cp_category` ORDER BY o asc  [ RunTime:0.0000s ]
+
+[ 2019-06-23T13:08:05+08:00 ] 127.0.0.1 /index.php/Admin/Link/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Link/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_links` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_links` ORDER BY o asc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: page C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\1e2c869bd8911c3f098d2a5c15bf2453.php 第 432 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:08:08+08:00 ] 127.0.0.1 /index.php/Admin/Link/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Link/add' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: link C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\19d558821af50c2c93154f9a21603785.php 第 390 行.
+NOTIC: [8] Undefined variable: link C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\19d558821af50c2c93154f9a21603785.php 第 396 行.
+NOTIC: [8] Undefined variable: link C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\19d558821af50c2c93154f9a21603785.php 第 409 行.
+NOTIC: [8] Undefined variable: link C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\19d558821af50c2c93154f9a21603785.php 第 422 行.
+NOTIC: [8] Undefined variable: link C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\19d558821af50c2c93154f9a21603785.php 第 435 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:08:09+08:00 ] 127.0.0.1 /index.php/Admin/Upload/uploadpic/Width/88/Height/31/BackCall/logo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: img C:\Users\beimei\caipiao\Application\Admin\Controller\UploadController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:08:11+08:00 ] 127.0.0.1 /index.php/Admin/Flash/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Flash/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_flash` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `cp_flash` ORDER BY o asc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015604s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015604s ]
+NOTIC: [8] Undefined variable: page C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\0447277b3e408b40bd7c2d514f895c53.php 第 427 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:08:16+08:00 ] 127.0.0.1 /index.php/Admin/Member/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Member/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_member` INNER JOIN cp_auth_group_access ON cp_member.uid = cp_auth_group_access.uid INNER JOIN cp_auth_group ON cp_auth_group.id = cp_auth_group_access.group_id  ORDER BY cp_member.uid asc LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT cp_member.*,cp_auth_group.id as gid,cp_auth_group.title FROM `cp_member` INNER JOIN cp_auth_group_access ON cp_member.uid = cp_auth_group_access.uid INNER JOIN cp_auth_group ON cp_auth_group.id = cp_auth_group_access.group_id  ORDER BY cp_member.uid asc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_group` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title` FROM `cp_auth_group`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' C:\Users\beimei\caipiao\Application\Runtime\Cache\Admin\cd4483014f2e11fff8848d4b0b1995b7.php 第 404 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-06-23T13:08:21+08:00 ] 127.0.0.1 /index.php/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015603s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\Users\beimei\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Article/index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_category` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`pid`,`name` FROM `cp_category` ORDER BY o asc  [ RunTime:0.0000s ]
+

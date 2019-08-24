@@ -1,0 +1,685 @@
+<template>
+  <div>
+    <header>
+      <a class="return" @click="$router.go(-1)">
+        <i class="iconfont icon-return"></i>
+      </a>
+      <h1>VIP金管家</h1>
+      <router-link to="level" style="position:absolute; right:5px; top:0; color:#fff; font-size:15px; line-height:40px;" v-if="!userdata.isGuest">积分查询</router-link>
+    </header>
+    <div class="jgj">
+      <!-- <img src="../assets/slogan.png" alt="" style="width: 216px; display:block; margin:0 auto;"> -->
+      <p>活动时间:
+        <br>数据将从北京时间2019年1月1号开始统计，2019年1月1号之前的投注数据不参与统计，有效投注将开启永久累计模式，实现将娱乐变成财富。2019年2月5号（农历大年初一）开始正式派送！！！
+      </p>
+      <p>
+        活动详情:
+        <br>北京时间2019年1月1号，在本平台的每一笔投注永久累积打码，累积到一定标准即可晋升
+        ，每升一级即可获得相对应的晋升礼金，晋升礼金最高可获得768738元，还可获得无门槛要求的周周俸禄、月月俸禄。让您的会员账号变成永久收益！
+      </p>
+      <table>
+        <tr>
+          <td>称号</td>
+          <td>等级</td>
+          <td>累积打码</td>
+          <td>晋升
+            <br>礼金
+          </td>
+          <td>周俸禄</td>
+          <td>月俸禄</td>
+          <td>累积晋
+            <br>升礼金
+          </td>
+          <td>客服
+            <br>经理
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="2">普通彩民</td>
+          <td>0级</td>
+          <td>1</td>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>1级</td>
+          <td>5000</td>
+          <td>3</td>
+          <td>0</td>
+          <td>1</td>
+          <td>3</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td rowspan="3">少尉会员</td>
+          <td>2级</td>
+          <td>15000</td>
+          <td>5</td>
+          <td>0</td>
+          <td>3</td>
+          <td>8</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>3级</td>
+          <td>30000</td>
+          <td>15</td>
+          <td>0</td>
+          <td>5</td>
+          <td>23</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>4级</td>
+          <td>100000</td>
+          <td>25</td>
+          <td>0</td>
+          <td>10</td>
+          <td>48</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td rowspan="3">中尉会员</td>
+          <td>5级</td>
+          <td>200000</td>
+          <td>40</td>
+          <td>1</td>
+          <td>15</td>
+          <td>88</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>6级</td>
+          <td>300000</td>
+          <td>50</td>
+          <td>3</td>
+          <td>20</td>
+          <td>138</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>7级</td>
+          <td>500000</td>
+          <td>100</td>
+          <td>5</td>
+          <td>30</td>
+          <td>238</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td rowspan="3">上尉会员</td>
+          <td>8级</td>
+          <td>700000</td>
+          <td>150</td>
+          <td>7</td>
+          <td>40</td>
+          <td>388</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>9级</td>
+          <td>1000000</td>
+          <td>200</td>
+          <td>10</td>
+          <td>60</td>
+          <td>588</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>10级</td>
+          <td>1500000</td>
+          <td>250</td>
+          <td>15</td>
+          <td>80</td>
+          <td>838</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td rowspan="4">少校玩家</td>
+          <td>11级</td>
+          <td>2000000</td>
+          <td>300</td>
+          <td>20</td>
+          <td>100</td>
+          <td>1138</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>12级</td>
+          <td>2500000</td>
+          <td>400</td>
+          <td>25</td>
+          <td>150</td>
+          <td>1538</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>13级</td>
+          <td>3000000</td>
+          <td>500</td>
+          <td>35</td>
+          <td>200</td>
+          <td>2038</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>14级</td>
+          <td>4000000</td>
+          <td>600</td>
+          <td>50</td>
+          <td>300</td>
+          <td>2638</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td rowspan="4">中校玩家</td>
+          <td>15级</td>
+          <td>5000000</td>
+          <td>700</td>
+          <td>80</td>
+          <td>400</td>
+          <td>3338</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>16级</td>
+          <td>6000000</td>
+          <td>800</td>
+          <td>100</td>
+          <td>500</td>
+          <td>4138</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>17级</td>
+          <td>8000000</td>
+          <td>900</td>
+          <td>120</td>
+          <td>600</td>
+          <td>5038</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>18级</td>
+          <td>10000000</td>
+          <td>1000</td>
+          <td>150</td>
+          <td>700</td>
+          <td>6038</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td rowspan="4">上校玩家</td>
+          <td>19级</td>
+          <td>12000000</td>
+          <td>1100</td>
+          <td>180</td>
+          <td>800</td>
+          <td>7138</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>20级</td>
+          <td>14000000</td>
+          <td>1200</td>
+          <td>220</td>
+          <td>1000</td>
+          <td>8338</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>21级</td>
+          <td>16000000</td>
+          <td>1300</td>
+          <td>260</td>
+          <td>1200</td>
+          <td>9638</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>22级</td>
+          <td>18000000</td>
+          <td>1400</td>
+          <td>300</td>
+          <td>1400</td>
+          <td>11038</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td rowspan="5">少将贵宾</td>
+          <td>23级</td>
+          <td>21000000</td>
+          <td>1500</td>
+          <td>400</td>
+          <td>1600</td>
+          <td>12538</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>24级</td>
+          <td>24000000</td>
+          <td>1600</td>
+          <td>500</td>
+          <td>1800</td>
+          <td>14138</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>25级</td>
+          <td>27000000</td>
+          <td>1700</td>
+          <td>600</td>
+          <td>2000</td>
+          <td>15838</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>26级</td>
+          <td>30000000</td>
+          <td>1800</td>
+          <td>700</td>
+          <td>2300</td>
+          <td>17638</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>27级</td>
+          <td>35000000</td>
+          <td>2000</td>
+          <td>800</td>
+          <td>2600</td>
+          <td>19638</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td rowspan="5">中将贵宾</td>
+          <td>28级</td>
+          <td>40000000</td>
+          <td>2200</td>
+          <td>900</td>
+          <td>2900</td>
+          <td>21838</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>29级</td>
+          <td>45000000</td>
+          <td>2500</td>
+          <td>1000</td>
+          <td>3200</td>
+          <td>24338</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>30级</td>
+          <td>50000000</td>
+          <td>2600</td>
+          <td>1100</td>
+          <td>3500</td>
+          <td>26938</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>31级</td>
+          <td>55000000</td>
+          <td>2700</td>
+          <td>1200</td>
+          <td>4000</td>
+          <td>29638</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>32级</td>
+          <td>60000000</td>
+          <td>2800</td>
+          <td>1300</td>
+          <td>4500</td>
+          <td>32438</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td rowspan="5">上将贵宾</td>
+          <td>33级</td>
+          <td>70000000</td>
+          <td>3500</td>
+          <td>1400</td>
+          <td>5000</td>
+          <td>35938</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>34级</td>
+          <td>80000000</td>
+          <td>3800</td>
+          <td>1500</td>
+          <td>5500</td>
+          <td>39738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>35级</td>
+          <td>90000000</td>
+          <td>4500</td>
+          <td>1600</td>
+          <td>6000</td>
+          <td>44238</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>36级</td>
+          <td>100000000</td>
+          <td>5000</td>
+          <td>1800</td>
+          <td>7000</td>
+          <td>49238</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>37级</td>
+          <td>110000000</td>
+          <td>5500</td>
+          <td>2000</td>
+          <td>8000</td>
+          <td>54738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td rowspan="6">赌王至尊</td>
+          <td>38级</td>
+          <td>120000000</td>
+          <td>6000</td>
+          <td>2200</td>
+          <td>9000</td>
+          <td>60738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>39级</td>
+          <td>140000000</td>
+          <td>8000</td>
+          <td>2500</td>
+          <td>10000</td>
+          <td>68738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>40级</td>
+          <td>160000000</td>
+          <td>9000</td>
+          <td>2800</td>
+          <td>12000</td>
+          <td>77738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>41级</td>
+          <td>180000000</td>
+          <td>10000</td>
+          <td>3300</td>
+          <td>14000</td>
+          <td>87738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>42级</td>
+          <td>200000000</td>
+          <td>11000</td>
+          <td>3800</td>
+          <td>16000</td>
+          <td>98738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>43级</td>
+          <td>230000000</td>
+          <td>12000</td>
+          <td>4500</td>
+          <td>18000</td>
+          <td>110738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td rowspan="6">赌圣至尊</td>
+          <td>44级</td>
+          <td>260000000</td>
+          <td>13000</td>
+          <td>5000</td>
+          <td>20000</td>
+          <td>123738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>45级</td>
+          <td>290000000</td>
+          <td>15000</td>
+          <td>5500</td>
+          <td>23000</td>
+          <td>138738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>46级</td>
+          <td>320000000</td>
+          <td>16000</td>
+          <td>6000</td>
+          <td>26000</td>
+          <td>154738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>47级</td>
+          <td>350000000</td>
+          <td>18000</td>
+          <td>7000</td>
+          <td>29000</td>
+          <td>172738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>48级</td>
+          <td>400000000</td>
+          <td>20000</td>
+          <td>8000</td>
+          <td>31000</td>
+          <td>192738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>49级</td>
+          <td>450000000</td>
+          <td>25000</td>
+          <td>9000</td>
+          <td>33000</td>
+          <td>217738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td rowspan="11">赌神至尊</td>
+          <td>50级</td>
+          <td>500000000</td>
+          <td>26000</td>
+          <td>10000</td>
+          <td>36000</td>
+          <td>243738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>51级</td>
+          <td>550000000</td>
+          <td>27000</td>
+          <td>12000</td>
+          <td>40000</td>
+          <td>270738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>52级</td>
+          <td>600000000</td>
+          <td>28000</td>
+          <td>13000</td>
+          <td>45000</td>
+          <td>298738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>53级</td>
+          <td>700000000</td>
+          <td>35000</td>
+          <td>14000</td>
+          <td>50000</td>
+          <td>333738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>54级</td>
+          <td>800000000</td>
+          <td>40000</td>
+          <td>15000</td>
+          <td>55000</td>
+          <td>373738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>55级</td>
+          <td>900000000</td>
+          <td>45000</td>
+          <td>17000</td>
+          <td>60000</td>
+          <td>418738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>56级</td>
+          <td>1000000000</td>
+          <td>50000</td>
+          <td>18000</td>
+          <td>65000</td>
+          <td>468738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>57级</td>
+          <td>1200000000</td>
+          <td>60000</td>
+          <td>20000</td>
+          <td>70000</td>
+          <td>528738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>58级</td>
+          <td>1500000000</td>
+          <td>70000</td>
+          <td>21500</td>
+          <td>80000</td>
+          <td>598738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>59级</td>
+          <td>2000000000</td>
+          <td>80000</td>
+          <td>22500</td>
+          <td>90000</td>
+          <td>678738</td>
+          <td>√</td>
+        </tr>
+        <tr>
+          <td>60级</td>
+          <td>3000000000</td>
+          <td>90000</td>
+          <td>25000</td>
+          <td>100000</td>
+          <td>768738</td>
+          <td>√</td>
+        </tr>
+      </table>
+      <p>
+        <span style="color:#f6673d">例：</span>会员每一笔投注累计达到100万打码量即可获得晋升礼金200元，周俸禄10元，每月可获得60元月 俸禄；当累计到200万有效投注，
+        即可再次获得晋升礼金250+300=550元，每周可获得20元周俸禄，每月可获得100元月俸禄！
+        <br>
+        <br>
+      </p>
+
+      <p>
+        <span style="color:#f6673d">账号等级规则:</span>
+        <br>系统会在北京时间每日7:00更新数据，如需查询等级情况，请登入
+        <span style="color:#f6673d">会员中心</span> ，进行自助查询有效投注、等级等明细。
+        <br>
+        <br>
+        <span style="color:#f6673d">如何领取晋级礼金:</span>
+        <br>数据更新后达到晋升要求，无需申请系统自动派送，并通过
+        <a class="url" target="blank">APP推送通知</a>，所得晋升礼金1倍流水即可提款。
+        <br>
+        <br>如：会员直接从等级2升级到等级5，跨越3个等级，即可获得晋升礼金：15（等级3）+25（等级4）+40（等级5）= 80元
+        <br>
+        <br>
+        <span style="color:#f6673d">如何领取每月工资：</span>
+        <br>按最新的等级进行计算，无需申请北京时间每月2号系统自动派送，并通过
+        <a class="url" target="blank">APP推送通知</a>，所得月俸禄1倍流水即可提款，等级越高俸禄越高，每月俸禄最高可达100000
+        RMB。
+      </p>
+      <p>1.系统会在北京时间每日7:00更新数据，如达到标准晋升礼金直接派送，周俸禄每周六派送。
+        <br>2.所有优惠以人民币为结算金额，以北京时间为计时区间，所得礼金1倍流水即可提款。
+        <br>3.该活动只为本平台所有实质性玩家而设，如发现任何团体或个人，以不诚实方式套取红利或任何威胁、滥用公司优惠等行为，公司保留冻结、取消该团体或个人账户及账户结余的权利。
+        <br>4.若会员对活动有争议时，为确保双方利益，杜绝身份盗用行为，本平台有权要求会员提供充足有效的文件，用以确认是否享有该优惠的资质。
+        <br>5.每位玩家、每一地址、每一电子邮箱、每一电话号码、相同支付卡/信用卡号码、及共享电脑环境（例如网吧、其它公用电脑等）只能享有一次优惠；若有重复申请账号行为，公司保留取消或收回会员优惠彩金的权利。
+        <br>6.本平台保留所有权利在任何时候可以更改、停止、取消该优惠活动。
+        <br>
+      </p>
+    </div>
+  </div>
+</template>
+<script>
+export default {
+  data() {
+    return {
+      userdata: {
+        isGuest: !!this.$getCookie("isGuest")
+      }
+    };
+  }
+};
+</script>
+
+<style scoped>
+.jgj {
+  background-color: #fff;
+  margin: 50px 0 0 0;
+  font-size: 12px;
+  color: #666;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  color: #7d7d7d;
+  font-size: 12px;
+}
+
+tr {
+  height: 40px;
+}
+
+td {
+  border: 1px solid #999;
+}
+
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+td[rowspan] {
+  background-color: #f2f2f2;
+}
+
+p {
+  padding: 0 10px;
+  line-height: 25px;
+  font-size: 13px;
+}
+</style>

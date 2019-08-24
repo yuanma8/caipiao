@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4b3e"/>
+      <stop offset="1" stop-color="#fb2351"/>
+    </linearGradient>
+  </defs>
+  <path id="Exclusion_3" data-name="Exclusion 3" class="cls-1" d="M-432,23a12.915,12.915,0,0,1-9.193-3.807A12.915,12.915,0,0,1-445,10,12.915,12.915,0,0,1-441.192.808,12.915,12.915,0,0,1-432-3,12.915,12.915,0,0,1-422.807.808,12.915,12.915,0,0,1-419,10a12.915,12.915,0,0,1-3.807,9.193A12.915,12.915,0,0,1-432,23Zm0-21.667A8.677,8.677,0,0,0-440.667,10,8.677,8.677,0,0,0-432,18.667,8.677,8.677,0,0,0-423.333,10,8.677,8.677,0,0,0-432,1.333Zm4.623,9.245H-432a.572.572,0,0,1-.578-.578V5.378A.572.572,0,0,1-432,4.8a.571.571,0,0,1,.577.577V9.422h4.045A.572.572,0,0,1-426.8,10,.572.572,0,0,1-427.377,10.578Z" transform="translate(445 3)"/>
+</svg>

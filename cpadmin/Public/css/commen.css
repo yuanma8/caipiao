@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+html,body{font-family: "Microsoft YaHei",sans-serif;color: #333;font-size: 14px;}
+img{
+    border: none;
+}
+a{text-decoration: none;color: #666;cursor: pointer;}
+li{list-style: none;}
+i,em{font-style: normal;}
+b{font-style: normal;}
+h1,h2,h3,h4,h5,h6{font-weight: normal;}
+video{
+    object-fit:fill;
+}
+.clear{clear: both;}

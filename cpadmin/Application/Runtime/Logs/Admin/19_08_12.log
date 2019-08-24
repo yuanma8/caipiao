@@ -1,0 +1,3078 @@
+[ 2019-08-12T16:56:39+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T16:56:39+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:56:39+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:56:48+08:00 ] ::1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'qwadmin'
+
+[ 2019-08-12T16:59:33+08:00 ] ::1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:59:36+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T16:59:36+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T16:59:39+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T16:59:40+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:59:41+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600381244
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T16:59:41+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600381908
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T16:59:44+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600384384
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:59:47+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T16:59:47+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:59:52+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T16:59:52+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:59:52+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:59:53+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600393671
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T16:59:54+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600394426
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T16:59:54+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600394809
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:03+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:03+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:00:05+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:05+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:06+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600406472
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:06+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600406964
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:07+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600407173
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:00:07+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600407373
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:00:07+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600407565
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:07+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600407737
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:08+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600408102
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:08+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600408311
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:13+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600413795
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:14+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600414578
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:00:18+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:19+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:00:24+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:00:24+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:00:24+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:00:33+08:00 ] ::1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:00:36+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:00:36+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:19+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:19+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:33+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:07:33+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:33+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:34+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:07:34+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:36+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:36+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:37+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:37+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:37+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:37+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:37+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-08-12T17:07:37+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:37+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:37+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:39+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600859153
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:39+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600859679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:39+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600859888
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:40+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600860078
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:40+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600860260
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:40+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600860432
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:40+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600860604
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:40+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600860776
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:07:40+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600860957
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:07:41+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600861129
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:08:08+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-08-12T17:08:08+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:08:16+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600895974
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:08:16+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600896657
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:08:50+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:08:50+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:08:50+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:08:52+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600932209
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:18+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:18+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:20+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:21+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:39+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:09:39+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:39+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:40+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:09:40+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:41+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600981880
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:09:42+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600982434
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:09:43+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:09:43+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:44+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600984756
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-08-12T17:09:45+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600985257
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:09:45+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600985466
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:46+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600986112
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:09:46+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600986721
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:09:47+08:00 ] ::1 /index.php/Admin/login/verify.html?1565600987575
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:51+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:10:51+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:10:55+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601055864
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-08-12T17:10:56+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601056456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:56+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601056947
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:57+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601057156
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:57+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601057355
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:57+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601057591
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:57+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601057827
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:58+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601058027
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:58+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601058235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:10:58+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601058435
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:58+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601058616
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:58+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601058815
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:10:59+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601059015
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:11:34+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:11:34+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:11:34+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:11:36+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:11:36+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:11:37+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:11:37+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:11:37+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:11:37+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:11:37+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:11:37+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:11:50+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:12:14+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601134003
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:12:14+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601134566
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:12:15+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601135020
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:12:15+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601135501
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:12:16+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601136027
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:12:16+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601136253
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:12:16+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601136462
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:12:16+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601136679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:12:16+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601136878
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:12:17+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601137077
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:12:17+08:00 ] ::1 /index.php/Admin/login/verify.html?1565601137258
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:28:01+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:28:01+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:28:01+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:28:23+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:28:23+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:28:24+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602104961
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:28:25+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602105486
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:28:25+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602105685
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:28:25+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602105857
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:28:26+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602106029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:28:26+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602106192
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:28:26+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602106355
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:37:39+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602659042
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:37:39+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602659595
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:37:39+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602659912
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:37:40+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602660120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:37:56+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602676477
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:37:58+08:00 ] ::1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:38:01+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:38:01+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:38:03+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602683316
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:38:03+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602683779
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:38:04+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602684024
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:38:04+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602684188
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:39:25+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602765063
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:39:25+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602765573
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:39:27+08:00 ] ::1 /index.php/Admin/login/verify.html?1565602767206
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:43:35+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:43:35+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:43:58+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\phpStudy\PHPTutorial\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\phpStudy\PHPTutorial\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-08-12T17:43:58+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:45:25+08:00 ] ::1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+
+[ 2019-08-12T17:45:25+08:00 ] ::1 /index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: current F:\caipiao\Application\Runtime\Cache\Admin\32ec6c906c117a7c2bf504769276d87a.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:45:25+08:00 ] ::1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-08-12T17:45:27+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603127018
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:45:27+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603127746
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:45:28+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603128073
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:45:28+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603128290
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:45:28+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603128453
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:45:28+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603128635
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:45:28+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603128816
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:45:29+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603128988
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:45:29+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603129160
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:45:29+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603129333
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2019-08-12T17:45:29+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603129486
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:45:29+08:00 ] ::1 /index.php/Admin/login/verify.html?1565603129659
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:47:13+08:00 ] ::1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0050s ]
+SQL: SELECT `uid`,`user` FROM `cp_member` WHERE `user` = 'admin' AND `password` = 'ee16f8143e0fc1e93007a267ddefd872' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\LoginController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0030s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Common\function.php 第 12 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT `user` FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cp_log` (`name`,`t`,`ip`,`log`) VALUES ('admin','1565603233','::1','登录成功。') [ RunTime:0.0010s ]
+
+[ 2019-08-12T17:47:14+08:00 ] ::1 /index.php/Admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+SQL: select VERSION() as mysql [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_log` [ RunTime:0.0020s ]
+SQL: DELETE FROM `cp_log` WHERE ( t < 1560419234 ) [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cp_log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:47:21+08:00 ] ::1 /index.php/Admin/User/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\UserController.class.php 第 18 行.
+SQL: SELECT cp_member.* FROM `cp_member` WHERE ( cp_member.uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT cp_user.* FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 404 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:47:26+08:00 ] ::1 /index.php/Admin/User/Withdraw.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Withdraw' [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\UserController.class.php 第 208 行.
+SQL: SHOW COLUMNS FROM `cp_moneydetails` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT cp_moneydetails.* FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 0,10   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 404 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:47:29+08:00 ] ::1 /index.php/Admin/User/Qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Qrcode' [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: username F:\caipiao\Application\Runtime\Cache\Admin\dc0feee0494c99b9fff86b8067c662f0.php 第 398 行.
+NOTIC: [8] Undefined variable: payment F:\caipiao\Application\Runtime\Cache\Admin\dc0feee0494c99b9fff86b8067c662f0.php 第 412 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:47:30+08:00 ] ::1 /index.php/Admin/Upload/uploadpic/Width/300/Height/300/BackCall/qrcodepic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 F:\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: img F:\caipiao\Application\Admin\Controller\UploadController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:47:46+08:00 ] ::1 /index.php/Admin/Upload/uploadpic/Width/300/Height/300/BackCall/qrcodepic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 F:\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\caipiao\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T17:47:48+08:00 ] ::1 /index.php/Admin/User/qrcodesave.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/qrcodesave' [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 F:\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_payment` [ RunTime:0.0040s ]
+SQL: UPDATE `cp_payment` SET `qrcodepic`='http://localhost:8080/Public/attached/2019/08/12/5d5135c23649e.jpg' WHERE ( id=1 ) [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:47:50+08:00 ] ::1 /index.php/Admin/User/Qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Qrcode' [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: username F:\caipiao\Application\Runtime\Cache\Admin\dc0feee0494c99b9fff86b8067c662f0.php 第 398 行.
+NOTIC: [8] Undefined variable: payment F:\caipiao\Application\Runtime\Cache\Admin\dc0feee0494c99b9fff86b8067c662f0.php 第 412 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:47:51+08:00 ] ::1 /index.php/Admin/Upload/uploadpic/Width/300/Height/300/BackCall/qrcodepic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 F:\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: img F:\caipiao\Application\Admin\Controller\UploadController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:56:57+08:00 ] ::1 /index.php/Admin/User/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\UserController.class.php 第 18 行.
+SQL: SELECT cp_member.* FROM `cp_member` WHERE ( cp_member.uid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT cp_user.* FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 404 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:57:01+08:00 ] ::1 /index.php/Admin/User/edit/uid/13.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/index' [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0030s ]
+SQL: SELECT cp_user.* FROM `cp_user` WHERE ( cp_user.uid=13 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: head F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 101 行.
+NOTIC: [8] Undefined index: user F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 103 行.
+NOTIC: [8] Undefined index: user F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 106 行.
+NOTIC: [8] Undefined index: headPhoto F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 481 行.
+NOTIC: [8] Undefined variable: member F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 497 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:57:02+08:00 ] ::1 /index.php/Admin/Upload/uploadpic/Width/100/Height/100/BackCall/headPhoto.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 F:\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: img F:\caipiao\Application\Admin\Controller\UploadController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:57:22+08:00 ] ::1 /index.php/Admin/User/Withdraw.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Withdraw' [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\UserController.class.php 第 208 行.
+SQL: SHOW COLUMNS FROM `cp_moneydetails` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT cp_moneydetails.* FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 0,10   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 404 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\e7b2eadcdee58091fef16a2c19d6742d.php 第 464 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:57:26+08:00 ] ::1 /index.php/Admin/User/Deposit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Deposit' [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\UserController.class.php 第 355 行.
+SQL: SHOW COLUMNS FROM `cp_moneydetails` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT cp_moneydetails.* FROM `cp_moneydetails` WHERE ( type=10  ) ORDER BY cp_moneydetails.Id asc LIMIT 0,10   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 404 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+NOTIC: [8] Undefined index: birthday F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 461 行.
+NOTIC: [8] Undefined index: phone F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 462 行.
+NOTIC: [8] Undefined index: qq F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 463 行.
+NOTIC: [8] Undefined index: totalmoney F:\caipiao\Application\Runtime\Cache\Admin\bf0b8fdb299227f99b887eb48d7dde36.php 第 464 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T17:57:34+08:00 ] ::1 /index.php/Admin/User/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/Index' [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\UserController.class.php 第 18 行.
+SQL: SELECT cp_member.* FROM `cp_member` WHERE ( cp_member.uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT cp_user.* FROM `cp_user` ORDER BY cp_user.uid asc LIMIT 0,10   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant username - assumed 'username' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 395 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 396 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 397 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 398 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 400 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 403 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' F:\caipiao\Application\Runtime\Cache\Admin\1cbff1a40115bc9bda682af404344715.php 第 404 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-08-12T19:42:07+08:00 ] ::1 /index.php/Admin/User/edit/uid/13.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='User/index' [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cp_user` [ RunTime:0.0030s ]
+SQL: SELECT cp_user.* FROM `cp_user` WHERE ( cp_user.uid=13 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: head F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 101 行.
+NOTIC: [8] Undefined index: user F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 103 行.
+NOTIC: [8] Undefined index: user F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 106 行.
+NOTIC: [8] Undefined index: headPhoto F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 481 行.
+NOTIC: [8] Undefined variable: member F:\caipiao\Application\Runtime\Cache\Admin\5c0caaa648a11f51da5736c02d377677.php 第 497 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-08-12T19:42:08+08:00 ] ::1 /index.php/Admin/Upload/uploadpic/Width/100/Height/100/BackCall/headPhoto.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() F:\caipiao\Application\Admin\Controller\ComController.class.php 第 112 行.
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM cp_auth_group g left join cp_auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cp_member` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cp_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM cp_auth_rule s left join cp_auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 F:\caipiao\Application\Admin\Controller\ComController.class.php 第 61 行.
+SQL: SHOW COLUMNS FROM `cp_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `cp_auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: img F:\caipiao\Application\Admin\Controller\UploadController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
