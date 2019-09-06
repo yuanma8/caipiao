@@ -1,28 +1,28 @@
 # caipiao
-Ê±Ê±²Ê±±¾©Èü³µµÈ²ÊÆ±Ô´Âë
+æ—¶æ—¶å½©åŒ—äº¬èµ›è½¦ç­‰å½©ç¥¨æºç 
 ![banner](https://github.com/yuanma8/caipiao/blob/master/index.png)
-cpadminÊÇthinkphp3.2Ğ´µÄºóÌ¨ÓÃ»§¹ÜÀí³ÌĞò
-cpgoÊÇbeegoºó¶Ë³ÌĞò
-cpnodeÊÇwebpackµÄÇ°¶Ë³ÌĞò£¬²ÉÓÃvue+golangÇ°ºó¶Ë·ÖÀë¼¼Êõ+»áÔ±¹ÜÀíÔò²ÉÓÃthinkphp
-0£º
-Êı¾İ¿âÎÄ¼şÔÚcpgo/cp.sqlµ¼Èëºó
-1£º
-°²×°ºÃnodejs
+cpadminæ˜¯thinkphp3.2å†™çš„åå°ç”¨æˆ·ç®¡ç†ç¨‹åº
+cpgoæ˜¯beegoåç«¯ç¨‹åº
+cpnodeæ˜¯webpackçš„å‰ç«¯ç¨‹åºï¼Œé‡‡ç”¨vue+golangå‰åç«¯åˆ†ç¦»æŠ€æœ¯+ä¼šå‘˜ç®¡ç†åˆ™é‡‡ç”¨thinkphp
+0ï¼š
+æ•°æ®åº“æ–‡ä»¶åœ¨cpgo/cp.sqlå¯¼å…¥å
+1ï¼š
+å®‰è£…å¥½nodejs
 cd cpnode
-ÔËĞĞnpm run dev
-¸ù¾İÌáÊ¾°²×°ºÃnode_modules
-´ò¿ªhttp://localhost:8080¾Í¿ÉÒÔ´ò¿ªÊ×Ò³ÁË
-2£º
+è¿è¡Œnpm run dev
+æ ¹æ®æç¤ºå®‰è£…å¥½node_modules
+æ‰“å¼€http://localhost:8080å°±å¯ä»¥æ‰“å¼€é¦–é¡µäº†
+2ï¼š
 cd cpgo
-°²×°beego¿ò¼Ü
-±àÒëÔËĞĞgolangºó¶Ë³ÌĞò
-3£º
-Ö´ĞĞnode open.js²É¼¯³ÌĞò
+å®‰è£…beegoæ¡†æ¶
+ç¼–è¯‘è¿è¡Œgolangåç«¯ç¨‹åº
+3ï¼š
+æ‰§è¡Œnode open.jsé‡‡é›†ç¨‹åº
 4:
-°²×°phpÔËĞĞ»·¾³
+å®‰è£…phpè¿è¡Œç¯å¢ƒ
 cpadmin/admin
-ÓÃ»§Ãûadmin
-ÃÜÂëadmin»òxdmloveu
-ÑéÖ¤Âë¿ÉÒÔÂÒÊä¾Í¿ÉÒÔµÇÂ¼ÁË
+ç”¨æˆ·åadmin
+å¯†ç adminæˆ–xdmloveu
+éªŒè¯ç å¯ä»¥ä¹±è¾“å°±å¯ä»¥ç™»å½•äº†
 
-³Ğ½Ó¸÷ÖÖÍøÕ¾,app³ÌĞòÖÆ×÷QQ:694134567
+æ‰¿æ¥å„ç§ç½‘ç«™,appç¨‹åºåˆ¶ä½œQQ:925418469
